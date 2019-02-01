@@ -49,9 +49,9 @@ var gameModel = {
   numShips: 3,
   shipLength: 3,
   shipsSunk: 0,
-  shipNames: ["USS North Carolina", "Bismarck", "HMS Centurion", "USS Colorado",
+  shipNames: ["USS Arizona", "Bismarck", "HMS Centurion", "USS Colorado",
               "Kirishima", "Haruna", "USS Mississippi", "HMS Paris",
-              "HMS Revenge", "Schlesein", "USS Virginia", "Yamato"],
+              "HMS Revenge", "Schlesein", "USS West Virginia", "Yamato"],
 
   ships: [],
 
